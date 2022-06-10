@@ -1,5 +1,0 @@
-classes= 80
-valid=./data/file_list_for_release
-names=./data/coco.names
-backup=backup/
-eval=coco
